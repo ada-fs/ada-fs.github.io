@@ -15,7 +15,7 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 github_username: ada-fs
 
-avatar: https://raw.githubusercontent.com/ada-fs/ada-fs.github.io/master/img/ada-fs_logo.svg
+avatar: https://raw.githubusercontent.com/ada-fs/ada-fs.github.io/master/img/ada-fs_logo.png
 
 #highlighter: pygments
 
