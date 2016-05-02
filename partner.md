@@ -20,3 +20,9 @@ permalink: /partner/
 <a href="http://www.uni-mainz.de/">Johannes Gutenberg University of Mainz</a>
 
 ---
+
+### Funded by:
+
+<img src="http://www.sppexa.de/fileadmin/template/images/dfg_logo.png" height="20"/>
+<img src="http://www.sppexa.de/fileadmin/template/images/Logo-Kopfleiste.gif" height="40"/>
+<a href="http://www.sppexa.de/"> German Priority Programme 1648 Software for Exascale Computing</a>
