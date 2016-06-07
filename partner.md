@@ -16,8 +16,9 @@ permalink: /partner/
 
 ---
 
-<img src="https://www.zdv.uni-mainz.de/Bilder_zentral/logo_jgu_2015.jpg" height="40" />
-<a href="http://www.uni-mainz.de/">Johannes Gutenberg University of Mainz</a>
+<img src="img/mainz_uni_logo.jpg" height="40" />
+<img src="img/mainz_zdv_logo.jpg" height="40" />
+<a href="https://research.zdv.uni-mainz.de">Johannes Gutenberg University Mainz</a>
 
 ---
 
