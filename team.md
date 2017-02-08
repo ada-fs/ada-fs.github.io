@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PARTNER
-permalink: /partner/
+title: TEAM
+permalink: /team/
 ---
 
 ### Project Members:
