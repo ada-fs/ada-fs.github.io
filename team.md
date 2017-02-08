@@ -6,7 +6,7 @@ permalink: /team/
 
 ### Project Members:
 
-<img src="http://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/bilder/zih_logo" height="40"/>
+<img src="../img/zih_logo.png" height="40"/>
 <a href="https://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/">Center for Information Services and High Performance Computing (ZIH)</a>
 
 ---
