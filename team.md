@@ -12,8 +12,7 @@ permalink: /team/
 ---
 
 <img src="../img/kit_logo.jpg" height="40"/>
-<img src="../img/scc_logo.jpg" height="40" />
-<a href="http://www.scc.kit.edu/"/>Karlsruhe Institute of Technology Steinbuch Centre for Computing (SCC)</a>
+<a href="http://www.scc.kit.edu/"/>Karlsruhe Institute of Technology, Steinbuch Centre for Computing (SCC)</a>
 
 ---
 
