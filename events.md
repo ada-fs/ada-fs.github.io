@@ -20,3 +20,8 @@ The Workshop take place at DKRZ, Hamburg.
 
 [Workshop: Exascale I/O for Unstructured Grids, End of September](https://wr.informatik.uni-hamburg.de/events/2017/eiug)
 The Workshop take place at DKRZ, Hamburg.
+
+### 2016
+
+[PDSW-DISCS 2016 - 1st Joint International Workshop on Parallel Data Storage and Data Intensive Scalable Computing Systems](http://www.pdsw.org/index.shtml)
+Held in conjunction with SC16, Monday, November 14, 2016 Salt Lake City, UT.
