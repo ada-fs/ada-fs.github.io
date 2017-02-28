@@ -4,10 +4,10 @@ title: ADA-FS Publications
 permalink: /publications/
 ---
 
-### Publications
+## Publications
 
-* 2017
-* 2016
+### 2017
+### 2016
 
 <p>Oeste, S., Kluge, M., Soysal, M., Streit, A., Vef, M.-A., and Brinkmann, A.;
   <a href="http://www.pdsw.org/pdsw-discs16/wips/oeste-wip-pdsw-discs16.pdf">
@@ -30,7 +30,7 @@ permalink: /publications/
 </p>
 
 
-### Talks
+## Talks
 
 
-### Posters
+## Posters
