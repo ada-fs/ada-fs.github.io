@@ -18,7 +18,7 @@ The Workshop take place at DKRZ, Hamburg.
 
 ---
 
-[Workshop: Exascale I/O for Unstructured Grids, End of September](https://wr.informatik.uni-hamburg.de/events/2017/eiug)
+[Workshop: Exascale I/O for Unstructured Grids, 25-26 September 2017](https://wr.informatik.uni-hamburg.de/events/2017/eiug)
 The Workshop take place at DKRZ, Hamburg.
 
 ### 2016
