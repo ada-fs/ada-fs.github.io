@@ -6,10 +6,20 @@ permalink: /publications/
 
 ## Publications
 
-### 2017
+### 2018
+
+<p>M.-A. Vef, V. Tarasov, D. Hildebrand, and A. Brinkmann;
+  <a href="https://dl.acm.org/citation.cfm?id=3149376">
+    <b>Challenges and Solutions for Tracing Storage Systems: A Case Study with Spectrum Scale</b>;
+  </a>
+  <em>
+		ACM Transactions on Storage (TOS)  - Volume 14 Issue 2, May 2018; Article No. 18
+	</em>
+</p>
+
 ### 2016
 
-<p>Oeste, S., Kluge, M., Soysal, M., Streit, A., Vef, M.-A., and Brinkmann, A.;
+<p>S. Oeste, M. Kluge, M. Soysal, A. Streit, M.-A. Vef, and A. Brinkmann;
   <a href="http://www.pdsw.org/pdsw-discs16/wips/oeste-wip-pdsw-discs16.pdf">
     <b>Exploring Opportunities for Job-temporal File Systems with ADA-FS</b>;
   </a>
@@ -20,7 +30,7 @@ permalink: /publications/
 
 ---
 
-<p>Vef, M.-A., Tarasov, V., Hildebrand, D., and Brinkmann, A.;
+<p>M.-A. Vef, V. Tarasov, D. Hildebrand, and A. Brinkmann;
   <a href="https://drive.google.com/open?id=0B-75gd4swZPMZ1pOUFBJeWxfVjQ">
     <b>Tracing of Complex Production Systems: Obstacles and Solutions</b>;
   </a>
@@ -31,6 +41,15 @@ permalink: /publications/
 
 
 ## Talks
+
+### 2018
+
+<p>M.-A. Vef, N. Moti, and A. Brinkmann;
+  <b>ADA-FS - A Job-temporal, ad-hoc file system for HPC</b>;
+  <em>
+    HLRS 2018 - 17th HLRS/hww Workshop on Scalable Global File Systems at High Performance Computing Center Stuttgart, Germany.
+	</em>
+</p>
 
 
 ## Posters
