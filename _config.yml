@@ -20,7 +20,7 @@ avatar: https://raw.githubusercontent.com/ada-fs/ada-fs.github.io/master/img/ada
 #highlighter: pygments
 
 # Build settings
-markdown: redcarpet
+# markdown: redcarpet
 
 footer-links:
     github: ada-fs
