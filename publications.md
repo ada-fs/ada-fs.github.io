@@ -8,6 +8,16 @@ permalink: /publications/
 
 ### 2018
 
+<p>M.-A. Vef, N. Moti, T. Suess, T. Tocci, R. Nou, A. Miranda, T. Cortes, and A. Brinkmann;
+  <a href="about:blank">
+    <b>GekkoFS -- A temporary distributed file system for HPC applications</b>
+  </a>
+  <br>
+  <em>
+		2018 IEEE International Conference on Cluster Computing (CLUSTER), Belfast (Accepted for publication)
+	</em>
+</p>
+
 <p>M.-A. Vef, V. Tarasov, D. Hildebrand, and A. Brinkmann;
   <a href="https://dl.acm.org/citation.cfm?id=3149376">
     <b>Challenges and Solutions for Tracing Storage Systems: A Case Study with Spectrum Scale</b>
