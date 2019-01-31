@@ -28,15 +28,19 @@ permalink: /publications/
 	</em>
 </p>
 
-<p>Mehmet Soysal, Marco Berghoff, Achim Streit;
+<p>Soysal, M., Berghoff, M., & Streit, A.;
   <a href="http://jsspp.org/papers18/JSSPP_2018_paper_7.pdf">
     <b>Analysis of Job Metadata for Enhanced Wall Time Prediction</b>
   </a>
   <br>
   <em>
-		 Workshop on Job Scheduling Strategies for Parallel Processing  - May 2018
+		 In Workshop on Job Scheduling Strategies for Parallel Processing (JSSPP) (pp. 1-14). Springer, Cham.  - (2018, May).
 	</em>
 </p>
+
+
+
+
 
 ### 2016
 
