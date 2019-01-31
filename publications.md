@@ -9,13 +9,13 @@ permalink: /publications/
 ### 2018
 
 <p>M.-A. Vef, N. Moti, T. Suess, T. Tocci, R. Nou, A. Miranda, T. Cortes, and A. Brinkmann;
-  <a href="about:blank">
+  <a href="https://ieeexplore.ieee.org/document/8514892">
     <b>GekkoFS -- A temporary distributed file system for HPC applications</b>
   </a>
   <br>
   <em>
-		2018 IEEE International Conference on Cluster Computing (CLUSTER), Belfast (Accepted for publication)
-	</em>
+    In IEEE International Conference on Cluster Computing, CLUSTER 2018, Belfast, UK, September 10-13, 2018 (2018), pp. 319–324.
+    </em>
 </p>
 
 <p>M.-A. Vef, V. Tarasov, D. Hildebrand, and A. Brinkmann;
@@ -24,7 +24,7 @@ permalink: /publications/
   </a>
   <br>
   <em>
-		ACM Transactions on Storage (TOS)  - Volume 14 Issue 2, May 2018; Article No. 18
+		ACM Transactions on Storage (TOS)  - Volume 14 Issue 2, May 2018; Article No. 18, pp. 18:1-18:24
 	</em>
 </p>
 
