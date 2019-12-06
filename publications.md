@@ -6,6 +6,29 @@ permalink: /publications/
 
 ## Publications
 
+### 2020
+<p>M.-A. Vef, N. Moti, T. Suess, M. Tacke, T. Tocci, R. Nou, A. Miranda, T. Cortes, and A. Brinkmann;
+  <a href="https://www.researchgate.net/publication/336363855_GekkoFS_-_A_temporary_burst_buffer_file_system_for_HPC_applications">
+    <b>GekkoFS -- A temporary distributed file system for HPC applications</b>
+  </a>
+  <br>
+  <em>
+  	Journal of Computer Science and Technology, Januar 2020 (accepted for publication)
+    </em>
+</p>
+
+<p>A. Brinkmann, K. Mohror, W. Yu, P. Carns, T. Cortes, S.A. Klasky, A. Miranda, F.-J. Pfreundt, R.B. Ross, and M.-A. Vef;
+  <a href="https://www.researchgate.net/publication/336363850_Ad_hoc_file_systems_for_HPC">
+    <b>Ad hoc file systems for HPC</b>
+  </a>
+  <br>
+  <em>
+  	Journal of Computer Science and Technology, Januar 2020 (accepted for publication)
+    </em>
+</p>
+
+
+
 ### 2018
 
 <p>M.-A. Vef, N. Moti, T. Suess, T. Tocci, R. Nou, A. Miranda, T. Cortes, and A. Brinkmann;

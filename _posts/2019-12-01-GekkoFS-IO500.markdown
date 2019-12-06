@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "GekkoFS ranked #4 in the IO500’s “10-Node Challenge” at SC19"
+date:   2019-12-01 16:12:00 +0200
+categories: update
+---
+The [GekkoFS](https://research.zdv.uni-mainz.de/research/ada-fs/) file system jointly developed by the ZDV and the Barcelona Supercomputing Center (BSC) has been ranked No. 4 in the IO500’s “10-Node Challenge”. GekkoFS is a file system capable of aggregating the local I/O capacity and performance of each compute node in a HPC cluster to produce a high-performance storage space that can be accessed in a distributed manner. This storage space allows HPC applications and simulations to run in isolation from each other with regards to I/O, which
+reduces interferences and improves performance.
+
+The development has been funded in the context of the [SPPEXA](http://www.sppexa.de/) programme and the Europeans Horizon 2020’s [NEXTGenIO](http://www.nextgenio.eu/) project. The IO500’s “[10-Node Challenge](https://www.vi4io.org/io500/list/19-11/10node)” list is a global ranking that uses multiple concurrent processes running in 10 compute nodes to benchmark the I/O performance of a HPC storage system in terms or bandwidth and throughput. GekkoFS’ score of 125 ranks it 4th in IO500’s 10-Node Challenge List and 9th in IO500’s [full list](https://www.vi4io.org/io500/list/19-11/full?fields=information__system,information__institution,information__storage_vendor,information__filesystem_type,information__client_nodes,information__client_total_procs,io500__score,io500__bw,io500__md,information__data,information__list_id&equation=&sort_asc=false&sort_by=io500__score&radarmax=6&query=).
+
+The IO500 benchmark was run on the 34 compute nodes of the NEXTGenIO prototype cluster. Each of the prototype’s 34 nodes is equipped with two 2nd generation Intel® Xeon® Scalable processors and 3 TBytes of Intel® Optane™ DC persistent memory, thus providing approximately 102 TBytes of persistent I/O capacity to HPC applications.
+
