@@ -49,7 +49,6 @@ permalink: /publications/
 <p>
 
 ### 2018
-
 <p>M.-A. Vef, N. Moti, T. Suess, T. Tocci, R. Nou, A. Miranda, T. Cortes, and A. Brinkmann;
   <a href="https://ieeexplore.ieee.org/document/8514892">
     <b>GekkoFS -- A temporary distributed file system for HPC applications</b>
@@ -85,7 +84,6 @@ permalink: /publications/
 
 
 ### 2016
-
 <p>S. Oeste, M. Kluge, M. Soysal, A. Streit, M.-A. Vef, and A. Brinkmann;
   <a href="http://www.pdsw.org/pdsw-discs16/wips/oeste-wip-pdsw-discs16.pdf">
     <b>Exploring Opportunities for Job-temporal File Systems with ADA-FS</b>
@@ -112,7 +110,6 @@ permalink: /publications/
 ## Talks
 
 ### 2018
-
 <p>M.-A. Vef, N. Moti, and A. Brinkmann;
   <b>ADA-FS - A Job-temporal, ad-hoc file system for HPC</b>
   <br>
