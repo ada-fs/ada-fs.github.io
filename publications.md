@@ -29,9 +29,7 @@ permalink: /publications/
 
 ### 2019
 <p> Soysal, M.; Berghoff, M.; Zirwes, T.; Vef, M.-A.; Oeste, S.; Brinkman, A.; Nagel, W. E.; Streit, A.;
-	
-		<b>Using On-demand File Systems in HPC Environments</b>
-	
+    Using On-demand File Systems in HPC Environments
 	<br>
 	<em> 
 		The 17th Annual Meeting of the 2019 International Conference on High Performance Computing & Simulation (HPCS 2019), Dublin, IR, July 15-19, 2019
