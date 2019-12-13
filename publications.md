@@ -27,8 +27,26 @@ permalink: /publications/
     </em>
 </p>
 
+### 2019
+<p> Soysal, M.; Berghoff, M.; Zirwes, T.; Vef, M.-A.; Oeste, S.; Brinkman, A.; Nagel, W. E.; Streit, A.;
+	<a href="https://link.springer.com/chapter/10.1007/978-3-030-10632-4_1">
+		<b>Using On-demand File Systems in HPC Environments</b>
+	</a>
+	<br>
+	<em> 
+		The 17th Annual Meeting of the 2019 International Conference on High Performance Computing & Simulation (HPCS 2019), Dublin, IR, July 15-19, 2019
+	</em>
+</p>
 
-
+<p>Soysal, M.; Berghoff, M.; Klusáček, D.; Streit, A.
+	<a href="https://dl.acm.org/citation.cfm?id=3339204">
+		<b>On the Quality of Wall Time Estimates for Resource Allocation Prediction</b>
+	</a>
+	<br>
+	<em>
+		ICPP 2019 Proceedings of the 48th International Conference on Parallel Processing: Workshops, Kyoto, Japan — August 05 - 08, 2019, doi:10.1145/3339186.3339204
+	</em>
+<p>
 ### 2018
 
 <p>M.-A. Vef, N. Moti, T. Suess, T. Tocci, R. Nou, A. Miranda, T. Cortes, and A. Brinkmann;
