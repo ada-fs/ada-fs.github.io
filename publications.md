@@ -29,9 +29,9 @@ permalink: /publications/
 
 ### 2019
 <p> Soysal, M.; Berghoff, M.; Zirwes, T.; Vef, M.-A.; Oeste, S.; Brinkman, A.; Nagel, W. E.; Streit, A.;
-	<a href="https://link.springer.com/chapter/10.1007/978-3-030-10632-4_1">
+	
 		<b>Using On-demand File Systems in HPC Environments</b>
-	</a>
+	
 	<br>
 	<em> 
 		The 17th Annual Meeting of the 2019 International Conference on High Performance Computing & Simulation (HPCS 2019), Dublin, IR, July 15-19, 2019
@@ -70,7 +70,7 @@ permalink: /publications/
 </p>
 
 <p>Soysal, M., Berghoff, M., & Streit, A.;
-  <a href="https://www.springer.com/de/book/9783030106317">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-030-10632-4_1">
     <b>Analysis of Job Metadata for Enhanced Wall Time Prediction</b>
   </a>
   <br>
