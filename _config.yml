@@ -31,5 +31,3 @@ footer-links:
 exclude:
     - README.md
     - LICENSE
-
-theme: jekyll-theme-cayman
